@@ -1,0 +1,130 @@
+{
+  "profile": {
+    "name": "GeunHyeong Kim",
+    "title": "Robotics Software Engineer",
+    "email": "leokim0503@naver.com",
+    "linkedin": "https://www.linkedin.com/in/%EA%B7%BC%ED%98%95-%EA%B9%80-6436b2334/",
+    "github": "https://github.com/kgh2005",
+    "about_quote": "I am a robotics engineer with a focus on perception (vision), SLAM, and Navigation for legged robotic systems.",
+    "profile_image": "images/profile.jpg"
+  },
+  "interests": [
+    "Vision & Perception",
+    "SLAM",
+    "Navigation",
+    "Humanoid Robots",
+    "Motion Control",
+    "Embedded AI"
+  ],
+  "skills": [
+    "C++", "Python", "ROS2", "YOLO", "OpenCV", "Git", "Docker", "HTML", "CSS", "JS"
+  ],
+  "featured_experience": {
+    "title": "로빛 (RO:BIT) - 광운대학교 로봇게임단",
+    "role": "Vision & Localization Engineer",
+    "period": "2024.03 - Present",
+    "logo": "images/robit_logo.JPG",
+    "description": "19th Humanoid Team Member. Leading the development of vision-based navigation and autonomous localization for humanoid robots.",
+    "highlights": [
+      "Development of vision-based navigation and object recognition for humanoid robots",
+      "Implementation of localization algorithms for autonomous robot movement",
+      "Participation in various national and international robot competitions"
+    ]
+  },
+  "competition_awards": [
+    {
+      "title": "제10회 대한민국 SW 융합 해커톤",
+      "award": "우수상 (Excellence Award)",
+      "year": "2023",
+      "tags": ["Team Leader", "Frontend", "HTML/CSS"],
+      "description": "Led the team for social problem solving. Developed the frontend platform for innovative software solutions.",
+      "image": "images/projects/sw해커톤.jpg",
+      "link": "#"
+    },
+    {
+      "title": "광운대학교 공학설계입문 작품전시회",
+      "award": "최우수상 (Grand Prize)",
+      "year": "2024",
+      "tags": ["Web Design", "Teachable Machine", "Motor Control"],
+      "description": "Object detection using Google Teachable Machine, intuitive web UI design, and precise motor control systems.",
+      "image": "images/projects/공설입.jpg",
+      "link": "#"
+    },
+    {
+      "title": "로보컵 코리아 오픈 2025",
+      "award": "1등 (1st Place)",
+      "year": "2025",
+      "tags": ["Vision", "Localization", "Motion Control"],
+      "description": "Humanoid Kid Size league. Developed field perception and robot motion control for competitive robotic soccer.",
+      "image": "images/projects/robocupopen2025.jpg",
+      "link": "https://www.joongang.co.kr/article/25315145"
+    },
+    {
+      "title": "2025 지능로봇대회 휴머노이드 지능형 변형 바이애슬론",
+      "award": "2등 (2nd Place)",
+      "year": "2025",
+      "tags": ["Vision", "Motion Control"],
+      "description": "Intelligent Biathlon category. Implemented vision-based perception and adaptive motion control for complex environments.",
+      "image": "images/projects/지능로봇.jpg",
+      "link": "#"
+    },
+    {
+      "title": "로보컵 코리아 오픈 2026",
+      "award": "1등 (1st Place)",
+      "year": "2026",
+      "tags": ["Vision", "Localization", "Motion Control"],
+      "description": "Humanoid Kid Size league. Advanced vision, localization, and motion control optimization for world-class performance.",
+      "image": "images/projects/robocupopen2026.jpg",
+      "link": "https://www.joongang.co.kr/article/25405798"
+    }
+  ],
+  "general_projects": [
+    {
+      "title": "Robotics Research Project",
+      "tags": ["ROS2", "SLAM"],
+      "description": "Space for personal research and development projects for robot autonomous navigation and mapping.",
+      "image": "images/projects/project1.png",
+      "link": "#"
+    }
+  ],
+  "other_experience": [
+    {
+      "role": "운영 스태프 (Operational Staff)",
+      "company": "ROSCon Korea 2026",
+      "period": "2026",
+      "details": [
+        "Supported conference operations and technical sessions for the ROS community",
+        "Engaged with robotics developers and researchers to facilitate event workflows"
+      ]
+    },
+    {
+      "role": "강사 (Instructor)",
+      "company": "솔버톤 (Solvathon) 2025",
+      "period": "2025",
+      "details": [
+        "Technical mentoring and instruction for problem-solving hackathon participants",
+        "Guided students in robotics and software development methodologies"
+      ]
+    },
+    {
+      "role": "운영 스태프 (Operational Staff)",
+      "company": "K-로봇대회 2024, 2025",
+      "period": "2024 - 2025",
+      "details": [
+        "Managed competition operations and technical support for robot games",
+        "Coordinated field setups and ensured smooth competition workflows"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Robotics (Expected)",
+      "school": "Kwangwoon University",
+      "period": "2024.03 - Present",
+      "details": [
+        "Member of Robot Game Team RO:BIT",
+        "Focused on Vision, Localization, and Humanoid Robotics"
+      ]
+    }
+  ]
+}
